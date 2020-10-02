@@ -22,7 +22,7 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
 
 <!-- 
   ...
-  Local Reservado para o GIF do projeto rodando.
+  Local Reservado para o GIF do projeto rodando...................
   ...
 -->
 
@@ -113,7 +113,7 @@ Instale as dependências contidas nos arquivos `package.json` que se encontram n
 ```sh
 $ npm install
 
-# ou
+# ouu
 $ yarn
 ```
 
